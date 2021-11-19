@@ -27,7 +27,10 @@ https://camo.githubusercontent.com/a3bbc59f190482c45788b1d213d1dc1b8f426691e0e63
 <img width='43px' src='https://logovtor.com/wp-content/uploads/2020/11/scala-programming-language-logo-vector.png'/> 
 
 ### Projects
-🦾🦾🦾 CodeBuster
+🦾🦾🦾 CodeBuster <a href='https://github.com/AlessandroGenerale17/csmClientTS'>🔗</a>
 
 I decided to challenge myself and in one week I created a prototype of a `code snippet manager`. I often find myself googling and searching for that <b>one</b> piece of code that I have seen a few weeks back, but cannot seem to be able to find it again. The idea behind this is to have an application where the user is able to save snippets of code for future reference. The front-end was developed with React and TypeScript. I used Redux for global state management. 
+
+🎮🎮🎮 Sokoban <a href='https://sokobangame.netlify.app'>🔗</a>
+As part of the <a href='https://codaisseur.com/courses/academy/'>Codaisseur</a> bootcamp, we had to develop a project in a group using the React framework in approximately four days. My teammate was <a href='https://github.com/mgl-aguiar'>	Miguel Aguiar</a> and we decided to recreate the famous <a href='https://fy.wikipedia.org/wiki/Sokoban'>Sokoban</a> game. The aim of this project was to show that we could use React in other contexts as well. I had a lot of fun working in a team and communicating/discussing implementation solutions. 
 
