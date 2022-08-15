@@ -4,7 +4,7 @@
 
 I am 25 years old and I am from Udine, Italy. I speak Italian English and French. I live in Amsterdam (NL) and I am currently working as a Software Developer at <a href="https://tranzer.com/?gclid=Cj0KCQjw3eeXBhD7ARIsAHjssr_k6pv7gGmsI5j6NdzLcPT3VlsZcdEW9IpSNpLhLHZgg4EGiu-49BkaAkPvEALw_wcB">Tranzer</a> and I am in charge of building new features for the mobile application.
 
-PS: I love Ping Pong 🏓 so... let's battle 😄
+I love Ping Pong 🏓 and the game Among Us, so do not ask me about code and let's play 😄
 
 ### Tech Stack
 
