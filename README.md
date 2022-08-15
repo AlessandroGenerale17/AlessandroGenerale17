@@ -2,8 +2,7 @@
 
 ### About me 🇮🇹🇮🇹🇮🇹
 
-I am 25 years old and I am from Udine, Italy. I speak Italian English and French.
-I am an aspiring Software Developer. I recently completed my Bachelor in Computer Science at the Vrije University of Amsterdam. Right after, I joined the Full-Stack Developer bootcamp at Codaisseur Academy which greatly expanded my practical skillset.
+I am 25 years old and I am from Udine, Italy. I speak Italian English and French. I live in Amsterdam (NL) and I am currently working as a Software Developer at <a href="https://www.google.com/search?q=Tranzer&rlz=1C5CHFA_enNL989NL989&oq=Tranzer+&aqs=chrome..69i57j0i512j69i60l3j69i65j69i60j69i65.2025j1j4&sourceid=chrome&ie=UTF-8">Tranzer</a> and I am in charge of building new features for the mobile application.
 
 PS: I love Ping Pong 🏓 so... let's battle 😄
 
