@@ -2,7 +2,7 @@
 
 ### About me 🇮🇹🇮🇹🇮🇹
 
-I am 25 years old and I am from Udine, Italy. I speak Italian English and French. I live in Amsterdam (NL) and I am currently working as a Software Developer at <a href="https://www.google.com/search?q=Tranzer&rlz=1C5CHFA_enNL989NL989&oq=Tranzer+&aqs=chrome..69i57j0i512j69i60l3j69i65j69i60j69i65.2025j1j4&sourceid=chrome&ie=UTF-8">Tranzer</a> and I am in charge of building new features for the mobile application.
+I am 25 years old and I am from Udine, Italy. I speak Italian English and French. I live in Amsterdam (NL) and I am currently working as a Software Developer at <a href="https://tranzer.com/?gclid=Cj0KCQjw3eeXBhD7ARIsAHjssr_k6pv7gGmsI5j6NdzLcPT3VlsZcdEW9IpSNpLhLHZgg4EGiu-49BkaAkPvEALw_wcB">Tranzer</a> and I am in charge of building new features for the mobile application.
 
 PS: I love Ping Pong 🏓 so... let's battle 😄
 
