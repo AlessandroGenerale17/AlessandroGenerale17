@@ -2,7 +2,7 @@
 
 ### About me 🇮🇹🇮🇹🇮🇹
 
-I am 26 years old and I am from Udine, Italy. I speak Italian English and French. I live in Amsterdam (NL) and I am currently working as a Software Developer at <a href="https://tranzer.com/?gclid=Cj0KCQjw3eeXBhD7ARIsAHjssr_k6pv7gGmsI5j6NdzLcPT3VlsZcdEW9IpSNpLhLHZgg4EGiu-49BkaAkPvEALw_wcB">Tranzer</a> and I am in charge of building new features / maintining the mobile application. 
+I am 26 years old and I am from Udine, Italy. I speak 🇮🇹 🇫🇷 🇬🇧. I live in Amsterdam 🇳🇱 and I am currently working as a Software Developer at <a href="https://tranzer.com/?gclid=Cj0KCQjw3eeXBhD7ARIsAHjssr_k6pv7gGmsI5j6NdzLcPT3VlsZcdEW9IpSNpLhLHZgg4EGiu-49BkaAkPvEALw_wcB">Tranzer</a> and I am in charge of building new features / maintining the mobile application. 
 
 I also like coding outside office hours. I am currently trying to start up 2 different side projects with some friends using new technologies that I have no clue about. More info will follow in the future, but we are planning to make these projects production worthy. As a result, I am currently learning: 
 
