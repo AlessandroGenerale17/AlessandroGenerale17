@@ -2,13 +2,10 @@
 
 ### About me 🇮🇹🇮🇹🇮🇹
 
-I am 26 years old and I am from Udine, Italy. I speak 🇮🇹 🇫🇷 🇬🇧. I live in Amsterdam 🇳🇱 and I am currently working as a Software Developer at <a href="https://tranzer.com/?gclid=Cj0KCQjw3eeXBhD7ARIsAHjssr_k6pv7gGmsI5j6NdzLcPT3VlsZcdEW9IpSNpLhLHZgg4EGiu-49BkaAkPvEALw_wcB">Tranzer</a> and I am in charge of building new features / maintining the mobile application. 
+I am 26 years old and I am from Udine, Italy. I speak 🇮🇹 🇫🇷 🇬🇧. I live in Amsterdam 🇳🇱.
 
 I also like coding outside office hours. I am currently trying to start up 2 different side projects with some friends using new technologies that I have no clue about. More info will follow in the future, but we are planning to make these projects production worthy. As a result, I am currently learning: 
 
-<img
-width='120px' height='120px'
-src='https://www.docker.com/wp-content/uploads/2022/05/Docker_Temporary_Image_Google_Blue_1080x1080_v1.png' />
 <img width='120px' height='58px' src='https://miro.medium.com/max/920/1*CdjOgfolLt_GNJYBzI-1QQ.jpeg' /><img
 width='100px' height='28px'
 src='https://camo.githubusercontent.com/64a06327e4f2096d2c746b6a228b58e5d6d342f594cab86cce8bd95a07e2f69e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6578742e6a732d3030303030303f266c6f676f3d6e6578742e6a73' />
